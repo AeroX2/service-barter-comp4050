@@ -81,7 +81,7 @@
     "fuse.js": "^6.4.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "query-string": "^6.13.6",
     "react-cookie": "^4.0.3",
     "react-dnd": "8.0.3",
